@@ -30,3 +30,4 @@ aprés les échanges de clé les connexions des utilisateurs vers le server se f
  
 
 (les screenshots dans le dossier servent à l'explication en image des commandes et résultats de commande)
+et il y'a un fichier pdf qui explique les etapes du projet 
